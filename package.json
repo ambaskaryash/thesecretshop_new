@@ -1,6 +1,6 @@
 {
-  "name": "buburnusantara.com",
-  "private": true,
+  "name": "thesecretshop",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

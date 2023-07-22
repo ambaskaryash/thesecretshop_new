@@ -38,10 +38,10 @@ export const contactInfos: Readonly<ContactInfo[]> = [
     title: 'WhatsApp',
     iconName: 'WhatsAppIcon'
   },
-  {
-    href: 'https://www.facebook.com/thesecretshopnagpur',
-    style: 'hover:bg-green-400 focus-visible:bg-green-400',
-    title: 'Facebook',
-    iconName: 'FacebookIcon'
-  }
+  // {
+  //   href: 'https://www.facebook.com/thesecretshopnagpur',
+  //   style: 'hover:bg-green-400 focus-visible:bg-green-400',
+  //   title: 'Facebook',
+  //   iconName: 'FacebookIcon'
+  // }
 ];
